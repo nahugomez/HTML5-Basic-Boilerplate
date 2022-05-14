@@ -1,0 +1,1 @@
+MODERNIZR: Es un script con una serie de instrucciones que logran detectar el navegador con el que está visualizando la página el usuario y que de algún modo, adaptan los estilos que la pagina usa para que ese navegador los interprete correctamente. 
